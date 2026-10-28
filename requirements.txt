@@ -1,0 +1,3 @@
+asammdf>=7.4
+numpy
+matplotlib
